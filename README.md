@@ -20,4 +20,4 @@
 ## GitHub Stats
 ![isobarbaric's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isobarbaric&show_icons=true&hide_border=true&layout=compact&card_width=350&exclude_repo=DP-and-the-Periodic-Table,Algorithms-of-the-Months) 
 
-[![isobarbaric's Streak](https://streak-stats.demolab.com?user=isobarbaric&hide_border=true&mode=daily)](https://git.io/streak-stats)
+<!--- [![isobarbaric's Streak](https://streak-stats.demolab.com?user=isobarbaric&hide_border=true&mode=daily)](https://git.io/streak-stats) -->
