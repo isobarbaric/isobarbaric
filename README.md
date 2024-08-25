@@ -1,6 +1,5 @@
-# Hi there, I'm Krish 👋
+hi there, I'm Krish 👋
 
-## About Me
-👨‍💻 I'm currently a Software Engineering student at the University of Waterloo 🪿.
+software engineering @ university of waterloo 🪿
 
-📫 Reach me via [Linkedin](www.linkedin.com/in/kri-shah/) or [email](mailto:shahkrish2016@gmail.com).
+reach me via [Linkedin](www.linkedin.com/in/kri-shah/) or [email](mailto:shahkrish2016@gmail.com).
