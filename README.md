@@ -1,4 +1,4 @@
-hi there, i'm krish 👋
+hi there, [i'm krish](https://shahkrish.ca/) 👋
 
 software engineering @ university of waterloo 🪿
 
